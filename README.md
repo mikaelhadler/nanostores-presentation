@@ -126,8 +126,6 @@ unsubscribe() // Stops updates
 
 ---
 
-## Live Example
+## [Persistent Store](./persistent-store)
 
----
-
-## [Stores Benchmark](https://github.com/mikaelhadler/stores-benchmark)
+## [Stores Benchmark](./benchmark)
