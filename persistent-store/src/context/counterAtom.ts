@@ -1,4 +1,7 @@
 import { persistentAtom } from "@nanostores/persistent";
+import { loadEngine } from "../utils/getStorageEngine";
+
+loadEngine();
 
 export const counterAtom = persistentAtom<number>(
   "persistent-localstorage",

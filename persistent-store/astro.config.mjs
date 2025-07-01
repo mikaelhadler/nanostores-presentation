@@ -7,7 +7,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://rayriffy.github.io",
+  site: "https://nanostore-presentation.netlify.app",
   base: "/",
   integrations: [svelte(), react(), vue(), tailwind()],
 });
